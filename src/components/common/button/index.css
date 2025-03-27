@@ -10,7 +10,7 @@
     padding: 6px 0;
 }
 
-.common-button:hover {
+.common-button:active {
     background-color: #FFD84D;
 }
 
