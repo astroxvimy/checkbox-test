@@ -1,0 +1,25 @@
+.common-button {
+    background-color: #FFCE22;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    padding: 6px 0;
+}
+
+.common-button:hover {
+    background-color: #FFD84D;
+}
+
+.common-button:focus-visible {
+    border: none;
+    outline: none;
+}
+
+.common-button-text {
+    font-size: 14px;
+    line-height: 130%;
+}

@@ -1,0 +1,22 @@
+.page-select {
+    width: 370px;
+    padding: 16px 16px;
+    display: flex;
+    flex-direction: column;
+    
+    border: 1px solid #EEEEEE;
+    box-shadow: 0px 0px 4px rgba(20, 20, 20, 0.1), 0px 8px 15px rgba(20, 20, 20, 0.12);
+    border-radius: 6px;
+}
+.page-select-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4px;
+    font-size: 14px;
+    line-height: 130%;
+}
+
+.page-select > :last-child {
+    margin-top: 12px;
+}

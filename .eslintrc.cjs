@@ -26,5 +26,11 @@ module.exports = {
     '@typescript-eslint/no-explicit-any': 0,
     'react/no-array-index-key': 0,
     'react/jsx-no-constructed-context-values': 0,
+    'react/require-default-props': 0,
+    'jsx-a11y/label-has-associated-control': 0,
+    'jsx-a11y/click-events-have-key-events': 0,
+    'jsx-a11y/no-static-element-interactions': 0,
+    'jsx-a11y/no-noninteractive-tabindex': 0,
+    'no-nested-ternary': 0,
   },
 };

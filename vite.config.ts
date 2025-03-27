@@ -13,6 +13,6 @@ export default defineConfig({
     setupFiles: ['./src/setupTests.ts'],
   },
   server: {
-    host: 'localhost',
+    host: '127.0.0.1',
   },
 });
